@@ -1,1 +1,1 @@
-shibboleth oopsie
+shibboleth
